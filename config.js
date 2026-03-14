@@ -43,13 +43,13 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        high: "dah kter awiiiii 🚀💝",              // Shows when they go past 1000%
+        normal: "okay this is worryinggggg 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
+        title: "You are crazyyyyyy",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
@@ -57,11 +57,11 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        backgroundStart: "#FEFAE0",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#FAEDCD",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#D3FAC7",     // Button color (should stand out against the background)
+        buttonHover: "#B7E4C7",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#F1FAEE"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
@@ -78,10 +78,10 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://open.spotify.com/track/4STVcrJTZi0ik2y7R4SAHj?si=c4ebde2ce6204a41", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 1.0                        // Volume level (0.0 to 1.0)
     }
 };
 
