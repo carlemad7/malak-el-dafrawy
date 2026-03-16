@@ -13,9 +13,7 @@ const CONFIG = {
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
-    floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+    floatingEmojis: {🍣, 🏎️, ❤️, 🍪,
     },
 
     // Questions and answers
@@ -50,8 +48,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "You are crazyyyyyy",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "Hey kouki i know what we’re going through isn’t easy and that this is a rough time but i wanted to tell you how proud i am of youu. You are actually the strongest person i ever met. And you are able to go through shit that no one would ever be able to handle. You are so strong and your faith is even stronger, and i am so proud of you. And i want you to know that i am here for youu through everything and that i will never ever leave your side. I may not be able to do much but i try my best for you. I dont want you to feel that youre going through something alone 5als. Aw that you are not understood or listened to. Because as i am alive you will always have someone that is there for you, listens to you, understands, by3ksk. You are getting the full package. On a serious note, everytime i say i love you more, i dont mean i love you more than you love me, i mean i love you more than the bad days ahead of us, i love you more than any fight we ever have, i love you more than any rough time we’re going through, i love you more than any amount of distance keeping us apart, i love you more than any obstacle that comes between us, and i love you more than the odds that are stacked against me. I love you more than anything.",
+        emojis: ""  // These will bounce around
     },
 
     // Color scheme for the website
